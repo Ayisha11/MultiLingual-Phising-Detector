@@ -1,0 +1,61 @@
+id,text,language,label,attack_type
+1_en,You have won a free iPhone! Click here to claim your prize: http://win-gift.com,en,phishing,lottery_scam
+1_ta,இலவச ஐபோனை வென்றுள்ளீர்கள்! உங்கள் பரிசைப் பெற இங்கே கிளிக் செய்யவும்: http://win-gift.com,ta,phishing,lottery_scam
+1_hi,आपने मुफ़्त iPhone जीत लिया है! अपने पुरस्कार का दावा करने के लिए यहां क्लिक करें: http://win-gift.com,hi,phishing,lottery_scam
+1_fr,Vous avez gagné un iPhone gratuit ! Cliquez ici pour réclamer votre prix : http://win-gift.com,fr,phishing,lottery_scam
+1_es,¡Has ganado un iPhone gratis! Haga clic aquí para reclamar su premio: http://win-gift.com,es,phishing,lottery_scam
+1_de,"Sie haben ein kostenloses iPhone gewonnen! Klicken Sie hier, um Ihren Preis einzufordern: http://win-gift.com",de,phishing,lottery_scam
+2_en,Please verify your bank account by entering your PIN and password on this page: http://secure-login-update.com,en,phishing,credential_phish
+2_ta,இந்தப் பக்கத்தில் உங்கள் PIN மற்றும் கடவுச்சொல்லை உள்ளிட்டு உங்கள் வங்கிக் கணக்கைச் சரிபார்க்கவும்: http://secure-login-update.com,ta,phishing,credential_phish
+2_hi,कृपया इस पृष्ठ पर अपना पिन और पासवर्ड दर्ज करके अपना बैंक खाता सत्यापित करें: http://secure-login-update.com,hi,phishing,credential_phish
+2_fr,Veuillez vérifier votre compte bancaire en saisissant votre code PIN et votre mot de passe sur cette page : http://secure-login-update.com,fr,phishing,credential_phish
+2_es,Verifique su cuenta bancaria ingresando su PIN y contraseña en esta página: http://secure-login-update.com,es,phishing,credential_phish
+2_de,"Bitte verifizieren Sie Ihr Bankkonto, indem Sie auf dieser Seite Ihre PIN und Ihr Passwort eingeben: http://secure-login-update.com",de,phishing,credential_phish
+3_en,"Dear customer, share your OTP to verify your credit card transaction.",en,phishing,otp_harvest
+3_ta,"அன்புள்ள வாடிக்கையாளரே, உங்கள் கிரெடிட் கார்டு பரிவர்த்தனையைச் சரிபார்க்க உங்கள் OTP ஐப் பகிரவும்.",ta,phishing,otp_harvest
+3_hi,"प्रिय ग्राहक, अपने क्रेडिट कार्ड लेनदेन को सत्यापित करने के लिए अपना ओटीपी साझा करें।",hi,phishing,otp_harvest
+3_fr,"Cher client, partagez votre OTP pour vérifier votre transaction par carte de crédit.",fr,phishing,otp_harvest
+3_es,"Estimado cliente, comparta su OTP para verificar la transacción de su tarjeta de crédito.",es,phishing,otp_harvest
+3_de,"Sehr geehrter Kunde, teilen Sie uns Ihr OTP mit, um Ihre Kreditkartentransaktion zu überprüfen.",de,phishing,otp_harvest
+4_en,Invoice attached. Please confirm payment within 24 hours.,en,phishing,invoice_scam
+4_ta,விலைப்பட்டியல் இணைக்கப்பட்டுள்ளது. 24 மணிநேரத்திற்குள் கட்டணத்தை உறுதிப்படுத்தவும்.,ta,phishing,invoice_scam
+4_hi,चालान संलग्न. कृपया 24 घंटे के भीतर भुगतान की पुष्टि करें।,hi,phishing,invoice_scam
+4_fr,Facture jointe. Veuillez confirmer le paiement dans les 24 heures.,fr,phishing,invoice_scam
+4_es,Adjunto factura. Confirme el pago dentro de las 24 horas.,es,phishing,invoice_scam
+4_de,Rechnung beigefügt. Bitte bestätigen Sie die Zahlung innerhalb von 24 Stunden.,de,phishing,invoice_scam
+5_en,Team meeting scheduled for 3 PM tomorrow.,en,ham,legitimate
+5_ta,குழு கூட்டம் நாளை மாலை 3 மணிக்கு நடைபெற உள்ளது.,ta,ham,legitimate
+5_hi,टीम की बैठक कल दोपहर 3 बजे निर्धारित है।,hi,ham,legitimate
+5_fr,Réunion d'équipe prévue demain à 15h.,fr,ham,legitimate
+5_es,Reunión del equipo prevista para mañana a las 15:00 horas.,es,ham,legitimate
+5_de,Teambesprechung ist für morgen um 15 Uhr geplant.,de,ham,legitimate
+6_en,Netflix: Your monthly payment was successful. Thanks for staying with us.,en,ham,legitimate
+6_ta,Netflix: உங்கள் மாதாந்திர கட்டணம் வெற்றிகரமாக முடிந்தது. எங்களுடன் தங்கியதற்கு நன்றி.,ta,ham,legitimate
+6_hi,नेटफ्लिक्स: आपका मासिक भुगतान सफल रहा। हमारे साथ बने रहने के लिए धन्यवाद.,hi,ham,legitimate
+6_fr,Netflix : Votre paiement mensuel a réussi. Merci d'être resté avec nous.,fr,ham,legitimate
+6_es,Netflix: Tu pago mensual fue exitoso. Gracias por quedarte con nosotros.,es,ham,legitimate
+6_de,"Netflix: Ihre monatliche Zahlung war erfolgreich. Vielen Dank, dass Sie bei uns geblieben sind.",de,ham,legitimate
+7_en,You have exceeded your mailbox storage limit. Click here to re-activate your email.,en,phishing,credential_phish
+7_ta,உங்கள் அஞ்சல் பெட்டி சேமிப்பக வரம்பை மீறிவிட்டீர்கள். உங்கள் மின்னஞ்சலை மீண்டும் செயல்படுத்த இங்கே கிளிக் செய்யவும்.,ta,phishing,credential_phish
+7_hi,आपने अपनी मेलबॉक्स संग्रहण सीमा पार कर ली है. अपना ईमेल पुनः सक्रिय करने के लिए यहां क्लिक करें।,hi,phishing,credential_phish
+7_fr,Vous avez dépassé la limite de stockage de votre boîte aux lettres. Cliquez ici pour réactiver votre email.,fr,phishing,credential_phish
+7_es,Ha excedido el límite de almacenamiento de su buzón. Haga clic aquí para reactivar su correo electrónico.,es,phishing,credential_phish
+7_de,"Sie haben Ihr Postfach-Speicherlimit überschritten. Klicken Sie hier, um Ihre E-Mail-Adresse erneut zu aktivieren.",de,phishing,credential_phish
+8_en,Kindly review the attached report before Monday.,en,ham,legitimate
+8_ta,இணைக்கப்பட்டுள்ள அறிக்கையை திங்கட்கிழமைக்கு முன் மதிப்பாய்வு செய்யவும்.,ta,ham,legitimate
+8_hi,कृपया सोमवार से पहले संलग्न रिपोर्ट की समीक्षा करें।,hi,ham,legitimate
+8_fr,Veuillez consulter le rapport ci-joint avant lundi.,fr,ham,legitimate
+8_es,Por favor revise el informe adjunto antes del lunes.,es,ham,legitimate
+8_de,Bitte lesen Sie den beigefügten Bericht bis Montag durch.,de,ham,legitimate
+9_en,Your ATM card will be blocked soon. Reply with your PIN immediately.,en,phishing,otp_harvest
+9_ta,உங்கள் ஏடிஎம் கார்டு விரைவில் தடுக்கப்படும். உடனடியாக உங்கள் பின்னுடன் பதிலளிக்கவும்.,ta,phishing,otp_harvest
+9_hi,आपका एटीएम कार्ड जल्द ही ब्लॉक कर दिया जाएगा. तुरंत अपने पिन के साथ उत्तर दें.,hi,phishing,otp_harvest
+9_fr,Votre carte ATM sera bientôt bloquée. Répondez immédiatement avec votre code PIN.,fr,phishing,otp_harvest
+9_es,Su tarjeta de cajero automático se bloqueará pronto. Responda con su PIN inmediatamente.,es,phishing,otp_harvest
+9_de,Ihre Bankomatkarte wird in Kürze gesperrt. Antworten Sie umgehend mit Ihrer PIN.,de,phishing,otp_harvest
+10_en,Congratulations! You are the lucky winner of our anniversary giveaway!,en,phishing,lottery_scam
+10_ta,வாழ்த்துகள்! எங்களின் ஆண்டுவிழா பரிசின் அதிர்ஷ்டசாலி நீங்கள்!,ta,phishing,lottery_scam
+10_hi,बधाई हो! आप हमारी सालगिरह उपहार के भाग्यशाली विजेता हैं!,hi,phishing,lottery_scam
+10_fr,Félicitations! Vous êtes l'heureux gagnant de notre cadeau d'anniversaire !,fr,phishing,lottery_scam
+10_es,¡Felicidades! ¡Eres el afortunado ganador de nuestro sorteo de aniversario!,es,phishing,lottery_scam
+10_de,Glückwunsch! Sie sind der glückliche Gewinner unseres Jubiläums-Gewinnspiels!,de,phishing,lottery_scam

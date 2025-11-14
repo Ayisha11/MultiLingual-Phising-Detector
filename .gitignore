@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+venv/
+.venv/
+env/
+ENV/
+
+# macOS
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Model files (DO NOT UPLOAD — too large)
+models/
+*.safetensors
+*.bin
+*.pt
+*.model
+*.json
+
+# Secrets
+.env

@@ -1,0 +1,11 @@
+id,text,label,attack_type
+1,"You have won a free iPhone! Click here to claim your prize: http://win-gift.com",phishing,lottery_scam
+2,"Please verify your bank account by entering your PIN and password on this page: http://secure-login-update.com",phishing,credential_phish
+3,"Dear customer, share your OTP to verify your credit card transaction.",phishing,otp_harvest
+4,"Invoice attached. Please confirm payment within 24 hours.",phishing,invoice_scam
+5,"Team meeting scheduled for 3 PM tomorrow.",ham,legitimate
+6,"Netflix: Your monthly payment was successful. Thanks for staying with us.",ham,legitimate
+7,"You have exceeded your mailbox storage limit. Click here to re-activate your email.",phishing,credential_phish
+8,"Kindly review the attached report before Monday.",ham,legitimate
+9,"Your ATM card will be blocked soon. Reply with your PIN immediately.",phishing,otp_harvest
+10,"Congratulations! You are the lucky winner of our anniversary giveaway!",phishing,lottery_scam
